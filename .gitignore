@@ -1,2 +1,6 @@
 /build
 /obj
+/Palindromes/bin
+/Palindromes/obj
+/Palindromes.tests/bin
+/Palindromes.tests/obj
