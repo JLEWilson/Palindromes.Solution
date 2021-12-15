@@ -7,10 +7,11 @@
 ## Technologies Used
 
 * _C#_
+* _Markdown_
 
 ## Description
 
-_a detailed description_
+_The application takes in a user input via the console(not implemented, WIP) and will output weather or not the input is a palindrome as a bool. The Palindromes.cs file has 2 ways of doing this, one with Array.Reverse and one without_
 
 ## Setup/Installation Requirements
 
